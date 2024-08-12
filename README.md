@@ -173,37 +173,25 @@ For any questions, please reach out via connect@cresteem.com
 <a href="https://www.instagram.com/cresteem/"><img style='width:45px;' src="brand/footer-icons/insta.png" alt="Cresteem at Instagram"></a>
 </span>
 
-&nbsp;
-
 <span>
 <a href="https://www.linkedin.com/company/cresteem/"><img style='width:45px;' src="brand/footer-icons/linkedin.png" alt="Cresteem at Linkedin"></a>
 </span>
-
-&nbsp;
 
 <span>
 <a href="https://x.com/cresteem"><img style='width:45px;' src="brand/footer-icons/x.png" alt="Cresteem at Twitter / X"></a>
 </span>
 
-&nbsp;
-
 <span>
 <a href="https://www.youtube.com/@Cresteem"><img style='width:45px;' src="brand/footer-icons/youtube.png" alt="Cresteem at Youtube"></a>
 </span>
-
-&nbsp;
 
 <span>
 <a href="https://github.com/cresteem"><img style='width:45px;' src="brand/footer-icons/github.png" alt="Cresteem at Github"></a>
 </span>
 
-&nbsp;
-
 <span>
 <a href="https://huggingface.co/cresteem"><img style='width:45px;' src="brand/footer-icons/hf.png" alt="Cresteem at Huggingface"></a>
 </span>
-
-&nbsp;
 
 <span>
 <a href="https://cresteem.com/"><img style='width:45px;' src="brand/footer-icons/website.png" alt="Cresteem Website"></a>
@@ -219,43 +207,29 @@ For any questions, please reach out via connect@cresteem.com
 <a href="https://www.linkedin.com/in/darsan-in/"><img style='width:45px;' src="brand/footer-icons/linkedin.png" alt="Darsan at Linkedin"></a>
 </span>
 
-&nbsp;
-
 <span>
 <a href="https://www.youtube.com/@darsan-in"><img style='width:45px;' src="brand/footer-icons/youtube.png" alt="Darsan at Youtube"></a>
 </span>
-
-&nbsp;
 
 <span>
 <a href="https://www.facebook.com/darsan.in/"><img style='width:45px;' src="brand/footer-icons/facebook.png" alt="Darsan at Facebook"></a>
 </span>
 
-&nbsp;
-
 <span>
 <a href="https://www.npmjs.com/~darsan.in"><img style='width:45px;' src="brand/footer-icons/npm.png" alt="Darsan at NPM"></a>
 </span>
-
-&nbsp;
 
 <span>
 <a href="https://github.com/darsan-in"><img style='width:45px;' src="brand/footer-icons/github.png" alt="Darsan at Github"></a>
 </span>
 
-&nbsp;
-
 <span>
-<a href="https://huggingface.co/darsan"><img style='width:45px;' src="brand/footer-icons/hf.png" alt="Darsan at Huggingface"></a>
+<a href="https://huggingface.co/darsan"><img style='width:45px;padding-right: 50px;' src="brand/footer-icons/hf.png" alt="Darsan at Huggingface"></a>
 </span>
-
-&nbsp;
 
 <span>
 <a href="https://www.reddit.com/user/iamspdarsan/"><img style='width:45px;' src="brand/footer-icons/reddit.png" alt="Darsan at Reddit"></a>
 </span>
-
-&nbsp;
 
 <span>
 <a href="https://darsan.in/"><img style='width:45px;' src="brand/footer-icons/website.png" alt="Darsan Website"></a>
