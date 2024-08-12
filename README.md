@@ -7,55 +7,97 @@
 
 [uname-holder/reponame-holder] [npm-name-holder] [wf-holder] - for test&build
 
-<div style="display:grid;grid-template-columns: auto auto;column-gap:15px;justify-items:center;">
+<p align="center">
+
+<span>
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/uname-holder/reponame-holder?display_timestamp=committer&style=for-the-badge&label=updated%20on)](https://github.com/uname-holder/reponame-holder/commits/main)
 
+</span>
+
+<span>
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge)
+
+</span>
+
+</p>
+
+<p align="center">
+
+<span>
 
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=BUILD%20STATUS)
 ](https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml)
 
+</span>
+
+<span>
+
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=TEST%20STATUS)
 ](https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml)
 
-</div>
+</span>
+
+</p>
 
 ---
 
-<div style="display:grid;grid-template-columns: auto auto;column-gap:15px;justify-items:center;">
+<p align="center">
+
+<span>
 
 [![GitHub License](https://img.shields.io/github/license/uname-holder/reponame-holder?style=for-the-badge)
 ](LICENSE)
 
+</span>
+
+<span>
+
 [![GitHub Release](https://img.shields.io/github/v/release/uname-holder/reponame-holder?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version)](https://github.com/uname-holder/reponame-holder/releases)
+
+</span>
+
+</p>
+
+<p align="center">
 
 [![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/uname-holder/reponame-holder?style=for-the-badge)
 ](https://www.codefactor.io/repository/github/uname-holder/reponame-holder/issues/main)
 
-</div>
+</p>
 
 ---
 
-<div style="display:grid;grid-template-columns: auto auto;column-gap:15px;justify-items:center;">
+<p align="center">
+
+<span>
 
 ![NPM Downloads](https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20on%20NPM)
 
+</span>
+
+<span>
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge)
 
-</div>
+</span>
+
+</p>
 
 ---
 
-<div style="display:flex;flex-direction:row;justify-content:center;">
+<p align="center">
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/darsan-in?style=for-the-badge&label=Generous%20Sponsors)](https://github.com/sponsors/darsan-in)
 
-</div>
+</p>
 
 ---
 
 ### Supported Platforms
+
+<p align="center">
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -63,6 +105,8 @@
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</p>
 
 ---
 
@@ -167,6 +211,16 @@ For any questions, please reach out via connect@cresteem.com
 
 ---
 
+<p align="center">
+
+<a href="https://cresteem.com/">
+
+<img src="brand/branding-gh.png" alt="Cresteem Logo">
+
+</a>
+
+</p>
+
 <p align="center" style="padding: 30px 0;">
 
 <span>
@@ -210,18 +264,6 @@ For any questions, please reach out via connect@cresteem.com
 </span>
 
 <p>
-
----
-
-<p align="center">
-
-<a href="https://cresteem.com/">
-
-<img src="brand/branding-gh.png" alt="Cresteem Logo">
-
-</a>
-
-</p>
 
 ---
 
