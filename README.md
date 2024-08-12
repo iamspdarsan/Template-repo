@@ -223,11 +223,11 @@ For any questions, please reach out via connect@cresteem.com
 
 ## Keywords
 
-<ul id="keywords" style="color:rgba(10,145,255);list-style: disc inside;display:flex;padding:0px;margin:0px;align-items: center;flex-direction:row;text-align:center;">
+<ul id="keywords">
 
-<li style="margin-right:10px;">A</li>
-<li style="margin-right:10px">B</li>
-<li style="margin-right:10px">C</li>
+<li>A</li>
+<li>B</li>
+<li>C</li>
 <li>D</li>
 
 </ul>
