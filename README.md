@@ -205,7 +205,7 @@ For any questions, please reach out via connect@cresteem.com
 
 <span>
 <a href="https://www.linkedin.com/in/darsan-in/"><img style='width:45px;' src="brand/footer-icons/linkedin.png" alt="Darsan at Linkedin"></a>
-</span><span> ... </span><span>
+</span><span> ...    </span><span>
 <a href="https://www.youtube.com/@darsan-in"><img style='width:45px;' src="brand/footer-icons/youtube.png" alt="Darsan at Youtube"></a>
 </span>
 
