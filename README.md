@@ -171,29 +171,17 @@ For any questions, please reach out via connect@cresteem.com
 
 <span>
 <a href="https://www.instagram.com/cresteem/"><img style='width:45px;' src="brand/footer-icons/insta.png" alt="Cresteem at Instagram"></a>
-</span>
-
-<span>
+</span><span> .  .  . </span><span>
 <a href="https://www.linkedin.com/company/cresteem/"><img style='width:45px;' src="brand/footer-icons/linkedin.png" alt="Cresteem at Linkedin"></a>
-</span>
-
-<span>
+</span><span> .  .  . </span><span>
 <a href="https://x.com/cresteem"><img style='width:45px;' src="brand/footer-icons/x.png" alt="Cresteem at Twitter / X"></a>
-</span>
-
-<span>
+</span><span> .  .  . </span><span>
 <a href="https://www.youtube.com/@Cresteem"><img style='width:45px;' src="brand/footer-icons/youtube.png" alt="Cresteem at Youtube"></a>
-</span>
-
-<span>
+</span><span> .  .  . </span><span>
 <a href="https://github.com/cresteem"><img style='width:45px;' src="brand/footer-icons/github.png" alt="Cresteem at Github"></a>
-</span>
-
-<span>
+</span><span> .  .  . </span><span>
 <a href="https://huggingface.co/cresteem"><img style='width:45px;' src="brand/footer-icons/hf.png" alt="Cresteem at Huggingface"></a>
-</span>
-
-<span>
+</span><span> .  .  . </span><span>
 <a href="https://cresteem.com/"><img style='width:45px;' src="brand/footer-icons/website.png" alt="Cresteem Website"></a>
 </span>
 
