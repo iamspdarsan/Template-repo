@@ -1,17 +1,17 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.96",
-  "elapsed_seconds"    : 0.0666849613189697,
+  "elapsed_seconds"    : 0.0341601371765137,
   "n_files"            : 4,
-  "n_lines"            : 386,
-  "files_per_second"   : 59.9835393300607,
-  "lines_per_second"   : 5788.41154535086,
+  "n_lines"            : 360,
+  "files_per_second"   : 117.095548514078,
+  "lines_per_second"   : 10538.599366267,
   "report_file"        : "loc-meta.json"},
 "Markdown" :{
   "nFiles": 1,
-  "blank": 112,
+  "blank": 99,
   "comment": 0,
-  "code": 173},
+  "code": 160},
 "YAML" :{
   "nFiles": 2,
   "blank": 11,
@@ -23,7 +23,7 @@
   "comment": 0,
   "code": 29},
 "SUM": {
-  "blank": 123,
+  "blank": 110,
   "comment": 0,
-  "code": 263,
+  "code": 250,
   "nFiles": 4} }
