@@ -213,11 +213,15 @@ For any questions, please reach out via connect@cresteem.com
 
 ---
 
-<a align="center" href="https://cresteem.com/">
+<p align="center">
+
+<a href="https://cresteem.com/">
 
 <img src="brand/branding-gh.png" alt="Cresteem Logo">
 
 </a>
+
+</p>
 
 ---
 
