@@ -208,6 +208,10 @@ For any questions, please reach out via connect@cresteem.com
 </span>
 
 <span>
+ - 
+</span>
+
+<span>
 <a href="https://www.youtube.com/@darsan-in"><img style='width:45px;' src="brand/footer-icons/youtube.png" alt="Darsan at Youtube"></a>
 </span>
 
@@ -224,7 +228,7 @@ For any questions, please reach out via connect@cresteem.com
 </span>
 
 <span>
-<a href="https://huggingface.co/darsan"><img style='width:45px;padding-right: 50px;' src="brand/footer-icons/hf.png" alt="Darsan at Huggingface"></a>
+<a href="https://huggingface.co/darsan"><img style='width:45px;' src="brand/footer-icons/hf.png" alt="Darsan at Huggingface"></a>
 </span>
 
 <span>
@@ -241,7 +245,7 @@ For any questions, please reach out via connect@cresteem.com
 
 <a align="center" href="https://cresteem.com/">
 
-<img style="width:70%;" src="brand/branding-gh.png" alt="Cresteem Logo">
+<img src="brand/branding-gh.png" alt="Cresteem Logo">
 
 </a>
 
