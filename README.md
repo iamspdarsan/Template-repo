@@ -211,7 +211,7 @@ For any questions, please reach out via connect@cresteem.com
 
 <a align="center" href="https://cresteem.com/">
 
-![Cresteem Logo](brand/branding-gh.png)
+<img style="width:100%;" src="brand/branding-gh.png" alt="Cresteem Logo">
 
 </a>
 
