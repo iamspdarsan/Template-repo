@@ -272,7 +272,7 @@ For any questions, please reach out via connect@cresteem.com
 </span>
 
 <span>
-<a href="https://darsan.in/"><img width='45px' height='45px' src="brand/footer-icons/website.png" alt="Darsan Website"></a>
+<a href="https://darsan.in/" target="_about"><img width='45px' height='45px' src="brand/footer-icons/website.png" alt="Darsan Website"></a>
 </span>
 
 <p>
