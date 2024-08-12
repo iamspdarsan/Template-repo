@@ -7,97 +7,39 @@
 
 [uname-holder/reponame-holder] [npm-name-holder] [wf-holder] - for test&build
 
-<p align="center">
-
-<span>
-
 [![GitHub last commit](https://img.shields.io/github/last-commit/uname-holder/reponame-holder?display_timestamp=committer&style=for-the-badge&label=updated%20on)](https://github.com/uname-holder/reponame-holder/commits/main)
 
-</span>
-
-<span>
-
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge)
-
-</span>
-
-</p>
-
-<p align="center">
-
-<span>
 
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=BUILD%20STATUS)
 ](https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml)
 
-</span>
-
-<span>
-
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=TEST%20STATUS)
 ](https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml)
 
-</span>
-
-</p>
-
 ---
-
-<p align="center">
-
-<span>
 
 [![GitHub License](https://img.shields.io/github/license/uname-holder/reponame-holder?style=for-the-badge)
 ](LICENSE)
 
-</span>
-
-<span>
-
 [![GitHub Release](https://img.shields.io/github/v/release/uname-holder/reponame-holder?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version)](https://github.com/uname-holder/reponame-holder/releases)
-
-</span>
-
-</p>
-
-<p align="center">
 
 [![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/uname-holder/reponame-holder?style=for-the-badge)
 ](https://www.codefactor.io/repository/github/uname-holder/reponame-holder/issues/main)
 
-</p>
-
 ---
-
-<p align="center">
-
-<span>
 
 ![NPM Downloads](https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20on%20NPM)
 
-</span>
-
-<span>
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge)
-
-</span>
-
-</p>
 
 ---
 
-<p align="center">
-
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/darsan-in?style=for-the-badge&label=Generous%20Sponsors)](https://github.com/sponsors/darsan-in)
-
-</p>
 
 ---
 
 ### Supported Platforms
-
-<p align="center">
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -105,8 +47,6 @@
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</p>
 
 ---
 
@@ -212,55 +152,51 @@ For any questions, please reach out via connect@cresteem.com
 ---
 
 <p align="center">
-
-<a href="https://cresteem.com/">
-
-<img src="brand/branding-gh.png" alt="Cresteem Logo">
-
-</a>
-
+  <a href="https://cresteem.com/">
+    <img src="brand/branding-gh.png" alt="Cresteem Logo">
+  </a>
 </p>
 
-<p align="center" style="padding: 30px 0;">
+<p align="center">
 
 <span>
-<a href="https://www.instagram.com/cresteem/"><img style='width:45px;' src="brand/footer-icons/insta.png" alt="Cresteem at Instagram"></a>
+<a href="https://www.instagram.com/cresteem/"><img src="brand/footer-icons/insta.png" alt="Cresteem at Instagram"></a>
 </span><span> .  .  . </span><span>
-<a href="https://www.linkedin.com/company/cresteem/"><img style='width:45px;' src="brand/footer-icons/linkedin.png" alt="Cresteem at Linkedin"></a>
+<a href="https://www.linkedin.com/company/cresteem/"><img src="brand/footer-icons/linkedin.png" alt="Cresteem at Linkedin"></a>
 </span><span> .  .  . </span><span>
-<a href="https://x.com/cresteem"><img style='width:45px;' src="brand/footer-icons/x.png" alt="Cresteem at Twitter / X"></a>
+<a href="https://x.com/cresteem"><img src="brand/footer-icons/x.png" alt="Cresteem at Twitter / X"></a>
 </span><span> .  .  . </span><span>
-<a href="https://www.youtube.com/@Cresteem"><img style='width:45px;' src="brand/footer-icons/youtube.png" alt="Cresteem at Youtube"></a>
+<a href="https://www.youtube.com/@Cresteem"><img src="brand/footer-icons/youtube.png" alt="Cresteem at Youtube"></a>
 </span><span> .  .  . </span><span>
-<a href="https://github.com/cresteem"><img style='width:45px;' src="brand/footer-icons/github.png" alt="Cresteem at Github"></a>
+<a href="https://github.com/cresteem"><img src="brand/footer-icons/github.png" alt="Cresteem at Github"></a>
 </span><span> .  .  . </span><span>
-<a href="https://huggingface.co/cresteem"><img style='width:45px;' src="brand/footer-icons/hf.png" alt="Cresteem at Huggingface"></a>
+<a href="https://huggingface.co/cresteem"><img src="brand/footer-icons/hf.png" alt="Cresteem at Huggingface"></a>
 </span><span> .  .  . </span><span>
-<a href="https://cresteem.com/"><img style='width:45px;' src="brand/footer-icons/website.png" alt="Cresteem Website"></a>
+<a href="https://cresteem.com/"><img src="brand/footer-icons/website.png" alt="Cresteem Website"></a>
 </span>
 
 </p>
 
 [or]
 
-<p align="center" style="padding: 30px 0;">
+<p align="center">
 
 <span>
-<a href="https://www.linkedin.com/in/darsan-in/"><img style='width:45px;' src="brand/footer-icons/linkedin.png" alt="Darsan at Linkedin"></a>
+<a href="https://www.linkedin.com/in/darsan-in/"><img src="brand/footer-icons/linkedin.png" alt="Darsan at Linkedin"></a>
 </span><span> .  .  . </span><span>
-<a href="https://www.youtube.com/@darsan-in"><img style='width:45px;' src="brand/footer-icons/youtube.png" alt="Darsan at Youtube"></a>
+<a href="https://www.youtube.com/@darsan-in"><img src="brand/footer-icons/youtube.png" alt="Darsan at Youtube"></a>
 </span><span> .  .  . </span><span>
-<a href="https://www.facebook.com/darsan.in/"><img style='width:45px;' src="brand/footer-icons/facebook.png" alt="Darsan at Facebook"></a>
+<a href="https://www.facebook.com/darsan.in/"><img src="brand/footer-icons/facebook.png" alt="Darsan at Facebook"></a>
 </span><span> .  .  . </span><span>
-<a href="https://www.npmjs.com/~darsan.in"><img style='width:45px;' src="brand/footer-icons/npm.png" alt="Darsan at NPM"></a>
+<a href="https://www.npmjs.com/~darsan.in"><img src="brand/footer-icons/npm.png" alt="Darsan at NPM"></a>
 </span><span> .  .  . </span><span>
-<a href="https://github.com/darsan-in"><img style='width:45px;' src="brand/footer-icons/github.png" alt="Darsan at Github"></a>
+<a href="https://github.com/darsan-in"><img src="brand/footer-icons/github.png" alt="Darsan at Github"></a>
 </span><span> .  .  . </span><span>
-<a href="https://huggingface.co/darsan"><img style='width:45px;' src="brand/footer-icons/hf.png" alt="Darsan at Huggingface"></a>
+<a href="https://huggingface.co/darsan"><img src="brand/footer-icons/hf.png" alt="Darsan at Huggingface"></a>
 </span><span> .  .  . </span><span>
-<a href="https://www.reddit.com/user/iamspdarsan/"><img style='width:45px;' src="brand/footer-icons/reddit.png" alt="Darsan at Reddit"></a>
+<a href="https://www.reddit.com/user/iamspdarsan/"><img src="brand/footer-icons/reddit.png" alt="Darsan at Reddit"></a>
 </span><span> .  .  . </span><span>
-<a href="https://darsan.in/"><img style='width:45px;' src="brand/footer-icons/website.png" alt="Darsan Website"></a>
+<a href="https://darsan.in/"><img src="brand/footer-icons/website.png" alt="Darsan Website"></a>
 </span>
 
 <p>
