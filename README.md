@@ -18,7 +18,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/uname-holder/reponame-holder?display_timestamp=committer&style=for-the-badge&label=updated%20on)](https://github.com/uname-holder/reponame-holder/commits/main)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge)]()
 
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=BUILD%20STATUS)
 ](https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml)
@@ -38,9 +38,9 @@
 
 ---
 
-![NPM Downloads](https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20on%20NPM)
+[![NPM Downloads](https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20on%20NPM)]()
 
-![GitHub Repo stars](https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge)
+[![GitHub Repo stars](https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge)]()
 
 ---
 
@@ -272,14 +272,14 @@ For any questions, please reach out via connect@cresteem.com
 </span>
 
 <span>
-<a href="https://darsan.in/" target="_about"><img width='45px' height='45px' src="brand/footer-icons/website.png" alt="Darsan Website"></a>
+<a href="https://darsan.in/"><img width='45px' height='45px' src="brand/footer-icons/website.png" alt="Darsan Website"></a>
 </span>
 
 <p>
 
 ---
 
-## Keywords
+#### Topics
 
 <ul id="keywords">
 
