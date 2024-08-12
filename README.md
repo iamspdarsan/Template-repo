@@ -1,3 +1,5 @@
+<div align="center">
+
 # [Title] - [short desc]
 
 <p id="intro">[This is a placeholder paragraph. Here some introductory text or describe the content that will eventually go in this section. This text is meant to give a sense of how the final content will look in the design.]
@@ -47,6 +49,8 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/darsan-in?style=for-the-badge&label=Generous%20Sponsors)](https://github.com/sponsors/darsan-in)
 
 ---
+
+</div>
 
 ## Table of Contents 📝
 
