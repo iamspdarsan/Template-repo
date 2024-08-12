@@ -51,19 +51,19 @@
 ## Table of Contents 📝
 
 - [Features and Benefits](#features-and-benefits-)
-- [Use Cases](#use-cases)
-- [Friendly request to users](#friendly-request-to-users)
+- [Use Cases](#use-cases-)
+- [Friendly request to users](#-friendly-request-to-users)
 
-- [Installation - Step-by-Step Guide](#installation---step-by-step-guide)
+- [Installation - Step-by-Step Guide](#installation---step-by-step-guide-)
 - [Usage](#usage)
-- [In-Action](#in-action)
+- [In-Action](#in-action-)
 
-- [License](#license)
-- [Contributing to Our Project](#--contributing-to-our-project)
-- [Website](#website)
+- [License](#license-%EF%B8%8F)
+- [Contributing to Our Project](#contributing-to-our-project-)
+- [Website](#website-)
 
 - [Contact Information](#contact-information)
-- [Credits](#credits)
+- [Credits](#credits-)
 
 ## Features and Benefits ✨
 
