@@ -18,35 +18,95 @@
 
 [uname-holder/reponame-holder] [npm-name-holder] [wf-holder] - for test&build
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/uname-holder/reponame-holder?display_timestamp=committer&style=for-the-badge&label=updated%20on)](https://github.com/uname-holder/reponame-holder/commits/main)
+<p>
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge)]()
+<span>
+  <a href="https://github.com/uname-holder/reponame-holder/commits/main">
+    <img src="https://img.shields.io/github/last-commit/uname-holder/reponame-holder?display_timestamp=committer&style=for-the-badge&label=updated%20on" alt="GitHub last commit"/>
+  </a>
+</span>
 
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=BUILD%20STATUS)
-](https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml)
+<span>
+  <a href="">
+    <img src="https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge" alt="GitHub commit activity"/>
+  </a>
+</span>
 
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=TEST%20STATUS)
-](https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml)
+</p>
+
+<p>
+
+<span>
+  <a href="https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=BUILD%20STATUS" alt="GitHub Actions Build Status"/>
+  </a>
+</span>
+
+<span>
+  <a href="https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=TEST%20STATUS" alt="GitHub Actions Test Status"/>
+  </a>
+</span>
+
+</p>
 
 ---
 
-[![GitHub License](https://img.shields.io/github/license/uname-holder/reponame-holder?style=for-the-badge)
-](LICENSE)
+<p>
 
-[![GitHub Release](https://img.shields.io/github/v/release/uname-holder/reponame-holder?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version)](https://github.com/uname-holder/reponame-holder/releases)
+<span>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/uname-holder/reponame-holder?style=for-the-badge" alt="GitHub License"/>
+  </a>
+</span>
 
-[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/uname-holder/reponame-holder?style=for-the-badge)
-](https://www.codefactor.io/repository/github/uname-holder/reponame-holder/issues/main)
+<span>
+  <a href="https://github.com/uname-holder/reponame-holder/releases">
+    <img src="https://img.shields.io/github/v/release/uname-holder/reponame-holder?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version" alt="GitHub Release"/>
+  </a>
+</span>
+
+</p>
+
+<p>
+
+<span>
+  <a href="https://www.codefactor.io/repository/github/uname-holder/reponame-holder/issues/main">
+    <img src="https://img.shields.io/codefactor/grade/github/uname-holder/reponame-holder?style=for-the-badge" alt="CodeFactor Grade"/>
+  </a>
+</span>
+
+</p>
 
 ---
 
-[![NPM Downloads](https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20on%20NPM)]()
+<p>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge)]()
+<span>
+  <a href="">
+    <img src="https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20on%20NPM" alt="NPM Downloads"/>
+  </a>
+</span>
+
+<span>
+  <a href="">
+    <img src="https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge" alt="GitHub Repo stars"/>
+  </a>
+</span>
+
+</p>
 
 ---
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/darsan-in?style=for-the-badge&label=Generous%20Sponsors)](https://github.com/sponsors/darsan-in)
+<p>
+
+<span>
+  <a href="https://github.com/sponsors/darsan-in">
+    <img src="https://img.shields.io/github/sponsors/darsan-in?style=for-the-badge&label=Generous%20Sponsors" alt="GitHub Sponsors"/>
+  </a>
+</span>
+
+</p>
 
 ---
 
