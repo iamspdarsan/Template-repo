@@ -209,7 +209,7 @@ For any questions, please reach out via connect@cresteem.com
 
 ---
 
-<a align="left" href="https://cresteem.com/">
+<a align="center" href="https://cresteem.com/">
 
 ![Cresteem Logo](brand/branding-gh.png)
 
