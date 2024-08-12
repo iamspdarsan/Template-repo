@@ -7,6 +7,8 @@
 
 [uname-holder/reponame-holder] [npm-name-holder] [wf-holder] - for test&build
 
+<div style="display:grid;grid-template-columns: auto auto;column-gap:15px;justify-items:center;">
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/uname-holder/reponame-holder?display_timestamp=committer&style=for-the-badge&label=updated%20on)](https://github.com/uname-holder/reponame-holder/commits/main)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge)
@@ -17,7 +19,11 @@
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=TEST%20STATUS)
 ](https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml)
 
+</div>
+
 ---
+
+<div style="display:grid;grid-template-columns: auto auto;column-gap:15px;justify-items:center;">
 
 [![GitHub License](https://img.shields.io/github/license/uname-holder/reponame-holder?style=for-the-badge)
 ](LICENSE)
@@ -27,15 +33,25 @@
 [![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/uname-holder/reponame-holder?style=for-the-badge)
 ](https://www.codefactor.io/repository/github/uname-holder/reponame-holder/issues/main)
 
+</div>
+
 ---
+
+<div style="display:grid;grid-template-columns: auto auto;column-gap:15px;justify-items:center;">
 
 ![NPM Downloads](https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20on%20NPM)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge)
 
+</div>
+
 ---
 
+<div style="display:flex;flex-direction:row;justify-content:center;">
+
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/darsan-in?style=for-the-badge&label=Generous%20Sponsors)](https://github.com/sponsors/darsan-in)
+
+</div>
 
 ---
 
@@ -52,7 +68,7 @@
 
 ## Table of Contents 📝
 
-- [Features and Benefits](#features-and-benefits)
+- [Features and Benefits](#features-and-benefits-)
 - [Use Cases](#use-cases)
 - [Friendly request to users](#friendly-request-to-users)
 
@@ -104,7 +120,7 @@ Thank you for being part of this journey. Your support means the world to us. �
 - **Step 4:**
 - **Step 5:**
 
-## Usage 🤖
+## Usage
 
 - [purpose heading]
   [Demonstration here]
@@ -121,7 +137,7 @@ demo
 
 This project is licensed under the [Apache License 2.0 or GNU General Public License v3.0 or MIT](LICENSE).
 
-## 🤝 Contributing to Our Project
+## Contributing to Our Project 🤝
 
 We’re always open to contributions and fixing issues—your help makes this project better for everyone.
 
@@ -137,7 +153,7 @@ Thank you for being part of this journey!
 
 <a id="url" href="https://darsan.in">[https://darsan.in]</a>
 
-## Contact Information 🤙🏻
+## Contact Information
 
 For any questions, please reach out via hello@darsan.in or [LinkedIn](https://www.linkedin.com/in/darsan-in/).
 
@@ -151,17 +167,7 @@ For any questions, please reach out via connect@cresteem.com
 
 ---
 
-<div style="width:80%;margin:auto">
-
-<a href="https://cresteem.com/">
-
-![Cresteem Logo](brand/branding-gh.png)
-
-</a>
-
-</div>
-
-<div style='display:flex;column-gap:20px;align-items:center;padding: 30px 0;margin:auto;width:85%'>
+<div style='display:flex;column-gap:20px;align-items:center;padding: 30px 0;margin:auto;flex-direction:row;'>
 
 <a href="https://www.instagram.com/cresteem/"><img style='width:45px' src="brand/footer-icons/insta.png" alt="Cresteem at Instagram"></a>
 
@@ -181,7 +187,7 @@ For any questions, please reach out via connect@cresteem.com
 
 [or]
 
-<div style='display:flex;column-gap:20px;align-items:center;padding: 30px 0;margin:auto;width:90%'>
+<div style='display:flex;column-gap:20px;align-items:center;padding: 30px 0;margin:auto;flex-direction:row;'>
 
 <a href="https://www.linkedin.com/in/darsan-in/"><img style='width:45px' src="brand/footer-icons/linkedin.png" alt="Darsan at Linkedin"></a>
 
@@ -203,9 +209,21 @@ For any questions, please reach out via connect@cresteem.com
 
 ---
 
+<center style="width:80%;margin:auto">
+
+<a href="https://cresteem.com/">
+
+![Cresteem Logo](brand/branding-gh.png)
+
+</a>
+
+</center>
+
+---
+
 ## Keywords
 
-<ul id="keywords" style="color:rgba(10,145,255);list-style: disc inside;display:flex;padding:0px;margin:0px;align-items: center;">
+<ul id="keywords" style="color:rgba(10,145,255);list-style: disc inside;display:flex;padding:0px;margin:0px;align-items: center;flex-direction:row;text-align:center;">
 
 <li style="margin-right:10px;">A</li>
 <li style="margin-right:10px">B</li>
